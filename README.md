@@ -24,7 +24,7 @@
 
 ## 實作範例
 
-[Colab 操作程式碼參考](https://colab.research.google.com/drive/1UdG4uWwLF0-n9Ziff-usPjkOOOO0fvjd?authuser=2)
+[Colab 操作程式碼參考](https://drive.google.com/file/d/1GYZXKpewCV8kgWImnFMYINdhY4of7QJu/view?usp=sharing)
 
 
 
